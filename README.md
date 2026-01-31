@@ -4,10 +4,10 @@ Welcome to SliceHub 24, your go-to destination for delicious, freshly baked pizz
 
 Our Special Pizza at SliceHub 24 is a perfect blend of rich cheese, hand-picked fresh toppings, and our signature sauce, baked to perfection on a crispy crust. Crafted by expert chefs, every bite delivers bold flavors and
 irresistible taste—making it the ultimate choice for true pizza lovers.
-![pizza images](../SliceHub-24/images/pizza1.jpg)
+![pizza images](./images/pizza1.jpg)
 
 # Also Provide beverages
-![drinks](../SliceHub-24/images/beverages.jpg)
+![drinks](.images/beverages.jpg)
 - Cold Drinks
 - Fresh Lime Soda
 - Iced Tea
