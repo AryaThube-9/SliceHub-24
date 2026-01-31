@@ -7,7 +7,7 @@ irresistible taste—making it the ultimate choice for true pizza lovers.
 ![pizza images](./images/pizza1.jpg)
 
 # Also Provide beverages
-![drinks](.images/beverages.jpg)
+![drinks](./images/beverages.jpg)
 - Cold Drinks
 - Fresh Lime Soda
 - Iced Tea
